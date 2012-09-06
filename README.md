@@ -1,4 +1,5 @@
-cns3060-bstah
+Brian Staheli
 =============
 
-This is the private repository for bstah for 3060
+CS-3060-601
+email: bstah99@hotmail.com
