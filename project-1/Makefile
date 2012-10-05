@@ -7,4 +7,4 @@ clean:
 	rm project-1
 
 run: all
-	./project-1 Hi there
+	./project-1
